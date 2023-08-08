@@ -5,7 +5,7 @@ challenges it provides.
 
 I think that software and code can be beautiful and elegant even if there is no UI involved!
 
-Currently I'm enjoying learning daily more about Java, Spring, and microservices.
+Currently I'm enjoying learning Java, Spring, and microservices on a daily basis, as well as honing my DSA knowledge on LeetCode.
 
 Visit my other profiles:
 - [LeetCode](https://leetcode.com/nathanades/)
