@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome! 🚀
 
-<!--
-**nathanades/nathanades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a software engineer passionate for developing backend systems I'm excited by the growth of the field and the never-ending
+challenges it provides. 
 
-Here are some ideas to get you started:
+I think that software and code can be beautiful and elegant even if there is no UI involved!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I'm enjoying learning daily more about Java, Spring, and microservices.
+
+Visit my other profiles:
+- [LeetCode](https://leetcode.com/nathanades/)
+- [Linkedin](linkedin.com/in/thanosades) (contact me there!)
+
+Blog coming soon! 😉
