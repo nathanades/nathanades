@@ -1,8 +1,8 @@
 ### Welcome! 🚀
 
-I'm a software developer. My background is in front-end development using TypeScript, React, and Redux.
+I'm a software developer. My background is in front-end development using TypeScript, React, and Redux. However, I also enjoy doing backend.
 
-I'm more passionate about backend systems. My goal is to deliver valuable software by authoring clean and performant code, keep myself up to date and never stop improving.
+My goal is to deliver valuable software by authoring clean and performant code, keep myself up to date and never stop improving.
 
 I consider myself language agnostic, because languages and tools are just the means to an end.
 
